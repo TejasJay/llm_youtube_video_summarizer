@@ -221,5 +221,4 @@ def ollama_summarizer_through_openai(self):
 2.  Fetch the video transcript using `YouTubeTranscriptApi`.
 3.  Prepare a system and user prompt with the transcript text.
 4.  Send the prepared messages to AI models (OpenAI or Ollama) for summarization.
-5.  Display the summary in Markdown format.
 
