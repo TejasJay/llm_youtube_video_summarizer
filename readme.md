@@ -223,4 +223,3 @@ def ollama_summarizer_through_openai(self):
 4.  Send the prepared messages to AI models (OpenAI or Ollama) for summarization.
 5.  Display the summary in Markdown format.
 
-This structure allows easy retrieval and summarization of YouTube video transcripts, using multiple AI models for flexibility.
