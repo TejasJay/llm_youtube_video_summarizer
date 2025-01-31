@@ -18,7 +18,7 @@ from IPython.display import Markdown, display
 -   The `yt_url` variable holds the link to a specific YouTube video.
 -   Libraries used:
     -   `os`: For accessing environment variables (e.g., API keys).
-    -   `openai` and `ollama`: APIs for interfacing with OpenAI and Ollama models.
+    -   `openai` and `ollama`: APIs for interfacing with OpenAI and Ollama models
     -   `dotenv`: For loading environment variables from a `.env` file.
     -   `IPython.display`: For rendering Markdown content (e.g., the summary).
 * * *
