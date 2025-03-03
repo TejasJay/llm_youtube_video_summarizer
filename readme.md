@@ -1,4 +1,4 @@
-This code defines a `youtube_summarizer` class that extracts a YouTube video's transcript and summarizes its content using AI models like OpenAI's GPT-4 and Ollama's models. Let’s break the code down step by step
+This code defines a `youtube_summarizer` class that extracts a YouTube video's transcript and summarizes its content using AI models like OpenAI's GPT-4 and Ollama's models. Let’s break the code down step by step.
 
 * * *
 
